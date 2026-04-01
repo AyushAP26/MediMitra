@@ -1,0 +1,112 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>MediMitra - AI Health Assistant</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description"
+    content="MediMitra – AI-powered medical assistant for symptom checking, disease info, drug info, first aid guidance, and vaccinations.">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='img/medimitra.png') }}">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo">
+          <img src="{{ url_for('static', filename='img/medimitra.png') }}" alt="MediMitra Logo"
+            style="width:100%;height:100%;object-fit:cover;border-radius:12px;">
+        </div>
+        <div class="title">MediMitra</div>
+        <div class="tag">AI Public Health Assistant</div>
+      </div>
+
+      <div class="card" id="vaccinationsCard">
+        <div class="card-header">
+          <span class="card-title">Vaccinations</span>
+        </div>
+        <div class="vacc-select-container">
+          <select id="vaccineSelect" class="vacc-select">
+            <option value="" disabled selected>Select a vaccine...</option>
+            <optgroup label="Newborn">
+              <option value="BCG">BCG</option>
+              <option value="HepB">Hepatitis B</option>
+              <option value="OPV">Oral Polio Vaccine</option>
+            </optgroup>
+            <optgroup label="Pregnant">
+              <option value="Tdap">Tdap</option>
+              <option value="Influenza">Influenza</option>
+            </optgroup>
+            <optgroup label="Elderly">
+              <option value="Pneumococcal">Pneumococcal</option>
+              <option value="Shingles">Shingles</option>
+            </optgroup>
+          </select>
+        </div>
+      </div>
+
+      <div class="card">
+        <label class="card-title">Emergency Triage</label>
+        <button id="emergencyBtn" class="pill">Start Emergency Triage</button>
+      </div>
+
+      <div class="card" id="dailyTipsCard">
+        <label class="card-title">Daily Health Tips</label>
+        <ul id="dailyTips" class="tips-list">
+          <li class="muted">Loading tips...</li>
+        </ul>
+      </div>
+
+      <div class="sidebar-footer">
+        <small>Not a substitute for professional medical advice. In emergencies call local services.</small>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="main-header">
+        <div class="header-left">
+          <h2>Welcome to MediMitra</h2>
+          <p class="subtitle">Ask me anything — symptoms, diseases, diet, medications, vaccines, or any medical
+            question.</p>
+        </div>
+        <div class="header-right">
+          <div class="status online"><span class="dot"></span> Online</div>
+        </div>
+      </header>
+
+      <section class="chat-card">
+        <div id="chatWindow" class="chat-window">
+          <div class="bot-msg">
+            <div class="bubble">Hello! I'm <strong>MediMitra</strong>, your AI medical assistant. 👋 Ask me about
+              symptoms, diseases, diet advice, medications, or any health question!</div>
+          </div>
+        </div>
+
+        <div class="quick-actions" id="quickActions">
+          <button class="chip">I have fever</button>
+          <button class="chip">I have diarrhea</button>
+          <button class="chip">What vaccines for newborn?</button>
+          <button class="chip">How to prevent dengue?</button>
+        </div>
+
+        <div class="composer">
+          <textarea id="msg" placeholder="Ask anything: symptoms, diseases, diet, medications..." rows="1"></textarea>
+          <button id="send" class="send-btn" title="Send">Send</button>
+        </div>
+
+        <div class="disclaimer-alert">
+          This is an educational website. For proper medical advice, please visit a qualified doctor.
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+
+</html>

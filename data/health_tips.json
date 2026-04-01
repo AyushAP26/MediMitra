@@ -1,0 +1,157 @@
+[
+    {
+        "category": "Hydration & Nutrition",
+        "tips": [
+            "Drink at least 8 glasses of water daily to stay hydrated",
+            "Eat 5 servings of colorful fruits and vegetables every day",
+            "Start your day with a glass of warm water and lemon",
+            "Reduce processed foods and choose whole grains instead",
+            "Include protein in every meal for sustained energy",
+            "Limit sugar intake to less than 6 teaspoons per day",
+            "Eat nuts and seeds for healthy fats and nutrients",
+            "Don't skip breakfast - it jumpstarts your metabolism",
+            "Choose healthy snacks like fruits instead of chips",
+            "Reduce salt intake to prevent high blood pressure",
+            "Eat fish twice a week for omega-3 fatty acids",
+            "Include fermented foods like yogurt for gut health",
+            "Chew your food slowly to aid digestion",
+            "Avoid eating heavy meals before bedtime",
+            "Stay hydrated during exercise with water or electrolytes"
+        ]
+    },
+    {
+        "category": "Exercise & Fitness",
+        "tips": [
+            "Exercise for at least 30 minutes most days of the week",
+            "Take a 10-minute walk after each meal to aid digestion",
+            "Use stairs instead of elevators whenever possible",
+            "Stretch for 5-10 minutes every morning",
+            "Try yoga or meditation for flexibility and stress relief",
+            "Do strength training exercises twice a week",
+            "Take regular breaks from sitting - stand every hour",
+            "Walk or bike for short distances instead of driving",
+            "Join a sports club or fitness class for motivation",
+            "Set realistic fitness goals and track your progress",
+            "Warm up before exercise and cool down after",
+            "Mix cardio and strength training for balanced fitness",
+            "Exercise with a friend for accountability and fun",
+            "Listen to your body and rest when needed",
+            "Stay active on weekends with outdoor activities"
+        ]
+    },
+    {
+        "category": "Mental Health & Stress",
+        "tips": [
+            "Practice deep breathing exercises to manage stress",
+            "Take regular breaks during work to avoid burnout",
+            "Spend time in nature to boost your mood",
+            "Practice gratitude by writing 3 things you're thankful for daily",
+            "Limit social media use to reduce anxiety",
+            "Talk to friends or family when feeling overwhelmed",
+            "Try meditation or mindfulness for 10 minutes daily",
+            "Pursue hobbies that bring you joy and relaxation",
+            "Set boundaries between work and personal life",
+            "Seek professional help if feeling persistently sad or anxious",
+            "Practice positive self-talk and affirmations",
+            "Laugh more - watch comedy or spend time with fun people",
+            "Keep a journal to process your thoughts and emotions",
+            "Learn to say no to avoid overcommitting yourself",
+            "Practice progressive muscle relaxation before bed"
+        ]
+    },
+    {
+        "category": "Sleep & Rest",
+        "tips": [
+            "Get 7-9 hours of sleep every night for better health",
+            "Maintain a consistent sleep schedule, even on weekends",
+            "Create a relaxing bedtime routine to signal sleep time",
+            "Keep your bedroom cool, dark, and quiet",
+            "Avoid screens (phone, TV, computer) 1 hour before bed",
+            "Don't consume caffeine after 2 PM",
+            "Avoid large meals and alcohol close to bedtime",
+            "Use your bed only for sleep, not work or TV",
+            "Take a warm bath or shower before bed to relax",
+            "Read a book or listen to calm music before sleeping",
+            "Avoid napping late in the day",
+            "Exercise regularly but not close to bedtime",
+            "Manage stress and anxiety that may disrupt sleep",
+            "Consider blackout curtains or a sleep mask",
+            "If you can't sleep after 20 minutes, get up and do a calm activity"
+        ]
+    },
+    {
+        "category": "Hygiene & Prevention",
+        "tips": [
+            "Wash your hands frequently with soap for 20 seconds",
+            "Brush your teeth twice daily and floss once",
+            "Shower or bathe daily to maintain personal hygiene",
+            "Cover your mouth when coughing or sneezing",
+            "Don't share personal items like towels or razors",
+            "Keep your nails clean and trimmed",
+            "Wash fruits and vegetables before eating",
+            "Change your toothbrush every 3 months",
+            "Clean and disinfect frequently touched surfaces",
+            "Wear sunscreen daily to protect your skin from UV rays",
+            "Avoid touching your face, especially eyes, nose, and mouth",
+            "Stay home when sick to prevent spreading illness",
+            "Keep your living space clean and well-ventilated",
+            "Wash your hands before preparing or eating food",
+            "Use mosquito repellent to prevent insect-borne diseases"
+        ]
+    },
+    {
+        "category": "Preventive Care",
+        "tips": [
+            "Schedule regular check-ups with your healthcare provider",
+            "Get recommended vaccinations and boosters on time",
+            "Know your family medical history",
+            "Monitor your blood pressure regularly if at risk",
+            "Get annual dental check-ups and cleanings",
+            "Schedule eye exams every 1-2 years",
+            "Women: Get regular mammograms and Pap smears as recommended",
+            "Men: Discuss prostate screening with your doctor after 50",
+            "Get your cholesterol checked regularly",
+            "Monitor your blood sugar if you have diabetes risk factors",
+            "Keep a list of your medications and allergies",
+            "Get skin checks for unusual moles or changes",
+            "Stay up-to-date with cancer screenings based on age and risk",
+            "Discuss vitamin D and other supplement needs with your doctor",
+            "Keep emergency contact information easily accessible"
+        ]
+    },
+    {
+        "category": "Disease Prevention",
+        "tips": [
+            "Quit smoking to reduce risk of cancer and heart disease",
+            "Limit alcohol consumption to moderate levels",
+            "Maintain a healthy weight through diet and exercise",
+            "Manage chronic conditions like diabetes and hypertension",
+            "Reduce stress to lower risk of heart disease",
+            "Practice safe food handling to prevent food poisoning",
+            "Use protection during sexual activity to prevent STIs",
+            "Avoid prolonged sun exposure to reduce skin cancer risk",
+            "Get the flu shot annually to prevent influenza",
+            "Control mosquito breeding around your home to prevent dengue and malaria"
+        ]
+    },
+    {
+        "category": "Daily Wellness",
+        "tips": [
+            "Start your day with positive affirmations",
+            "Stay connected with loved ones regularly",
+            "Practice good posture while sitting and standing",
+            "Take vitamin D supplements if you lack sun exposure",
+            "Limit processed and fast food consumption",
+            "Keep your workspace ergonomic to prevent pain",
+            "Stay informed about health topics from reliable sources",
+            "Practice portion control to avoid overeating",
+            "Drink green tea for antioxidants",
+            "Avoid prolonged sitting - move every 30 minutes",
+            "Keep a first aid kit at home and in your car",
+            "Learn basic CPR and first aid skills",
+            "Stay hydrated in hot weather to prevent heat stroke",
+            "Wear appropriate footwear to prevent injuries",
+            "Manage your time effectively to reduce stress"
+        ]
+    }
+]

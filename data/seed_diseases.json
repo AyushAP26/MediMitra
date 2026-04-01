@@ -1,0 +1,2427 @@
+[
+  {
+    "name": "Common Cold",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "sore throat",
+      "mild cough",
+      "congestion"
+    ],
+    "description": "A viral upper respiratory infection causing sneezing, sore throat and runny nose.",
+    "transmission": "Respiratory droplets from coughing or sneezing, and direct contact with contaminated surfaces.",
+    "differential_diagnosis": "Distinguished from flu by absence of high fever and severe body aches; from allergies by presence of sore throat and thicker mucus.",
+    "prevention_tips": [
+      "Frequent hand washing",
+      "Avoid touching face",
+      "Avoid close contact with infected individuals"
+    ],
+    "measures": [
+      "rest",
+      "fluids",
+      "paracetamol for fever",
+      "stay hydrated"
+    ],
+    "keywords": [
+      "cold",
+      "viral upper respiratory"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Influenza",
+    "symptoms": [
+      "fever",
+      "chills",
+      "body aches",
+      "cough",
+      "headache"
+    ],
+    "description": "Influenza (flu) causes fever, body aches and respiratory symptoms. Can be severe for high-risk groups.",
+    "transmission": "Highly contagious; spread through respiratory droplets and contact with contaminated surfaces.",
+    "differential_diagnosis": "Distinguished from common cold by sudden onset of high fever, severe fatigue, and prominent muscle/body aches.",
+    "prevention_tips": [
+      "Annual flu vaccination",
+      "Good respiratory hygiene (cover mouth/nose)",
+      "Avoid crowded places during outbreaks"
+    ],
+    "measures": [
+      "rest",
+      "fluids",
+      "seek antiviral within 48 hours if high risk",
+      "paracetamol for fever"
+    ],
+    "keywords": [
+      "flu",
+      "influenza"
+    ],
+    "vaccines": [
+      "Influenza vaccine"
+    ],
+    "severity": "moderate"
+  },
+  {
+    "name": "Gastroenteritis",
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "fever"
+    ],
+    "description": "Inflammation of stomach and intestines causing vomiting and diarrhea.",
+    "transmission": "Fecal-oral route through contaminated food, water, or contact with infected individuals.",
+    "differential_diagnosis": "Distinguished from food poisoning by longer incubation and duration; from cholera by less severe 'rice-water' diarrhea.",
+    "prevention_tips": [
+      "Safe food preparation",
+      "Drinking clean/filtered water",
+      "Thorough hand washing after using toilet"
+    ],
+    "measures": [
+      "oral rehydration",
+      "small bland meals",
+      "seek care if blood in stool or high fever"
+    ],
+    "keywords": [
+      "stomach flu",
+      "food poisoning"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Malaria",
+    "symptoms": [
+      "high fever",
+      "chills",
+      "sweating",
+      "headache",
+      "nausea"
+    ],
+    "description": "A mosquito-borne parasitic infection causing cycles of fever, chills and flu-like symptoms. Severe cases can affect the brain, kidneys or cause anemia.",
+    "transmission": "Spread by the bite of an infected female Anopheles mosquito.",
+    "differential_diagnosis": "Distinguished by cyclical fever patterns (paroxysms); travels history to endemic areas is a key indicator.",
+    "prevention_tips": [
+      "Use insecticide-treated bed nets",
+      "Apply indoor residual spraying",
+      "Take antimalarial chemoprophylaxis if traveling"
+    ],
+    "measures": [
+      "seek medical care for diagnostic blood test",
+      "take antimalarial medication if confirmed",
+      "stay hydrated",
+      "rest in a cool environment",
+      "seek immediate help if confusion or severe weakness appears"
+    ],
+    "keywords": [
+      "malaria",
+      "plasmodium"
+    ],
+    "vaccines": [
+      "RTS,S/AS01 (for children in some countries)",
+      "R21/Matrix-M (limited regions)"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO Malaria Factsheet",
+      "CDC Malaria Overview"
+    ]
+  },
+  {
+    "name": "Dengue",
+    "symptoms": [
+      "bleeding gums",
+      "high fever",
+      "rash",
+      "joint pain",
+      "headache"
+    ],
+    "description": "A mosquito-borne viral infection causing high fever, severe joint pain, and rash. Severe dengue can lead to hemorrhage or shock.",
+    "transmission": "Spread by the bite of infected Aedes aegypti and Aedes albopictus mosquitoes.",
+    "differential_diagnosis": "Distinguished from Malaria by presence of rash and 'breakbone' joint pain; bleeding gums/warning signs indicate severity.",
+    "prevention_tips": [
+      "Eliminate standing water where mosquitoes breed",
+      "Wear protective clothing",
+      "Use mosquito repellents"
+    ],
+    "measures": [
+      "take paracetamol for fever (avoid ibuprofen)",
+      "drink plenty of fluids",
+      "watch for warning signs: abdominal pain, bleeding, vomiting",
+      "seek hospital care if symptoms worsen"
+    ],
+    "keywords": [
+      "dengue fever"
+    ],
+    "vaccines": [
+      "Qdenga (TAK-003)",
+      "Dengvaxia (for seropositive individuals only)"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "WHO Dengue Factsheet",
+      "CDC Dengue Guidelines"
+    ]
+  },
+  {
+    "name": "Typhoid",
+    "symptoms": [
+      "fever",
+      "abdominal pain",
+      "weakness",
+      "diarrhea",
+      "headache"
+    ],
+    "description": "A bacterial infection caused by Salmonella Typhi, leading to prolonged fever, abdominal pain and digestive issues.",
+    "transmission": "Fecal-oral route through contaminated food or water.",
+    "differential_diagnosis": "Distinguished by 'rose spots' on trunk (sometimes) and slower heart rate despite high fever; gastrointestinal symptoms are more prolonged than simple gastroenteritis.",
+    "prevention_tips": [
+      "Drink bottled or boiled water",
+      "Peel fruits and vegetables yourself",
+      "Typhoid vaccination"
+    ],
+    "measures": [
+      "start antibiotics prescribed by a doctor",
+      "drink oral rehydration solution",
+      "avoid street/unsafe foods",
+      "seek medical help if persistent vomiting or bleeding"
+    ],
+    "keywords": [
+      "typhoid fever",
+      "salmonella typhi"
+    ],
+    "vaccines": [
+      "Typhoid conjugate vaccine (TCV)",
+      "Ty21a oral vaccine"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "WHO Typhoid Vaccine Position Paper",
+      "CDC Typhoid Overview"
+    ]
+  },
+  {
+    "name": "Chikungunya",
+    "symptoms": [
+      "high fever",
+      "joint pain",
+      "rash",
+      "headache",
+      "fatigue"
+    ],
+    "description": "A mosquito-borne viral disease marked by sudden high fever and severe joint pain that can last weeks.",
+    "transmission": "Spread by the bite of infected Aedes mosquitoes.",
+    "differential_diagnosis": "Distinguished from Dengue by more prominent and persistent joint pain/stiffness, often affecting small joints of hands and feet.",
+    "prevention_tips": [
+      "Use mosquito repellents",
+      "Wear long-sleeved clothes",
+      "Screen windows and doors"
+    ],
+    "measures": [
+      "rest and hydration",
+      "paracetamol for fever",
+      "avoid NSAIDs until dengue is ruled out",
+      "gentle movement to reduce stiffness"
+    ],
+    "keywords": [
+      "chikungunya virus"
+    ],
+    "vaccines": [],
+    "severity": "moderate",
+    "sources": [
+      "WHO Chikungunya Factsheet"
+    ]
+  },
+  {
+    "name": "Japanese Encephalitis",
+    "symptoms": [
+      "seizures",
+      "confusion",
+      "fever",
+      "headache",
+      "vomiting"
+    ],
+    "description": "A viral brain infection spread by mosquitoes, leading to swelling of the brain. Can cause seizures and neurological damage.",
+    "transmission": "Spread by Culex mosquitoes, primarily in rural areas near rice paddies and pig farms.",
+    "differential_diagnosis": "Distinguished from common meningitis by presence of movement disorders and rapid progression to severe neurological symptoms; specific rural exposures are key.",
+    "prevention_tips": [
+      "JE vaccination for residents and travelers",
+      "Personal protection against mosquito bites",
+      "Reduction of mosquito breeding sites"
+    ],
+    "measures": [
+      "urgent hospital treatment",
+      "supportive care for seizures",
+      "monitor breathing",
+      "family should watch for confusion or loss of consciousness"
+    ],
+    "keywords": [
+      "JE virus"
+    ],
+    "vaccines": [
+      "JE vaccine (SA 14-14-2)",
+      "Ixiaro"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO JE Factsheet",
+      "CDC Japanese Encephalitis Vaccine Page"
+    ]
+  },
+  {
+    "name": "Tuberculosis",
+    "symptoms": [
+      "chronic cough",
+      "fever",
+      "night sweats",
+      "weight loss",
+      "fatigue"
+    ],
+    "description": "A bacterial lung infection caused by Mycobacterium tuberculosis, leading to chronic cough and weight loss. Can spread through air.",
+    "transmission": "Airborne; spread when an infected person coughs, sneezes, or speaks.",
+    "differential_diagnosis": "Distinguished from common pneumonia by chronicity (symptoms lasting >2-3 weeks), night sweats, and significant weight loss.",
+    "prevention_tips": [
+      "BCG vaccination at birth",
+      "Good ventilation in living spaces",
+      "Early treatment of latent TB infection"
+    ],
+    "measures": [
+      "seek TB testing (sputum / chest X-ray)",
+      "start full course of anti-TB medicines",
+      "complete 6-month therapy",
+      "avoid contact until treatment begins"
+    ],
+    "keywords": [
+      "tb",
+      "tuberculosis"
+    ],
+    "vaccines": [
+      "BCG vaccine"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO Tuberculosis Key Facts",
+      "CDC TB Guidelines"
+    ]
+  },
+  {
+    "name": "Cholera",
+    "symptoms": [
+      "watery diarrhea",
+      "vomiting",
+      "dehydration",
+      "cramps"
+    ],
+    "description": "A water-borne bacterial disease causing severe watery diarrhea and dehydration. Can cause death within hours.",
+    "transmission": "Ingestion of contaminated food or water, especially water contaminated with the feces of an infected person.",
+    "differential_diagnosis": "Distinguished by the sudden onset of massive 'rice-water' stools and rapid dehydration; much more severe than typical gastroenteritis.",
+    "prevention_tips": [
+      "Drink only boiled, chlorinated, or bottled water",
+      "Practice good hand hygiene",
+      "Oral cholera vaccination"
+    ],
+    "measures": [
+      "start ORS immediately",
+      "zinc supplementation for children",
+      "antibiotics only in severe cases",
+      "seek urgent treatment for dehydration"
+    ],
+    "keywords": [
+      "vibrio cholerae"
+    ],
+    "vaccines": [
+      "Oral cholera vaccines (Shanchol, Dukoral, Euvichol-Plus)"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO Cholera Position Paper"
+    ]
+  },
+  {
+    "name": "Leptospirosis",
+    "symptoms": [
+      "jaundice",
+      "fever",
+      "rash",
+      "joint pain",
+      "headache",
+      "vomiting"
+    ],
+    "description": "A bacterial infection spread through water contaminated with animal urine. Can affect kidneys or liver.",
+    "transmission": "Contact with water, soil, or food contaminated with urine from infected animals (e.g., rats).",
+    "differential_diagnosis": "Distinguished by exposure history (flooding, water sports) and often presents with calf muscle pain and conjunctival suffusion (redness of eyes without discharge).",
+    "prevention_tips": [
+      "Avoid swimming or wading in potentially contaminated water",
+      "Wear protective clothing/footwear in wet areas",
+      "Rodent control"
+    ],
+    "measures": [
+      "start antibiotics early (doxycycline/penicillin)",
+      "stay hydrated",
+      "avoid contaminated water",
+      "seek care if yellowing of eyes or decreased urine"
+    ],
+    "keywords": [
+      "lepto",
+      "leptospira"
+    ],
+    "vaccines": [],
+    "severity": "moderate",
+    "sources": [
+      "CDC Leptospirosis Overview"
+    ]
+  },
+  {
+    "name": "Hepatitis A",
+    "symptoms": [
+      "jaundice",
+      "fever",
+      "abdominal pain",
+      "fatigue",
+      "nausea"
+    ],
+    "description": "A viral liver infection spread through contaminated food or water, causing jaundice and digestive symptoms.",
+    "transmission": "Fecal-oral route through contaminated food or water.",
+    "differential_diagnosis": "Distinguished from other hepatitis viruses by acute onset and often associated with food/water outbreaks; rarely becomes chronic compared to Hep B/C.",
+    "prevention_tips": [
+      "Hepatitis A vaccination",
+      "Practice good hand hygiene",
+      "Avoid tap water and raw foods in areas with poor sanitation"
+    ],
+    "measures": [
+      "rest and hydration",
+      "avoid alcohol",
+      "light, low-fat meals",
+      "seek care for persistent vomiting or confusion"
+    ],
+    "keywords": [
+      "hep a"
+    ],
+    "vaccines": [
+      "Hepatitis A vaccine"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "CDC Hepatitis A",
+      "WHO Hepatitis Factsheet"
+    ]
+  },
+  {
+    "name": "Hepatitis B",
+    "symptoms": [
+      "jaundice",
+      "abdominal pain",
+      "fatigue",
+      "dark urine",
+      "nausea"
+    ],
+    "description": "A viral liver infection that can become chronic and cause serious liver damage including cirrhosis and cancer.",
+    "transmission": "Contact with infectious blood, semen, and other body fluids; mother-to-child at birth.",
+    "differential_diagnosis": "Distinguished by risk factors (needles, unprotected contact) and specific blood tests (HBsAg); often more likely to lead to chronic disease than Hep A.",
+    "prevention_tips": [
+      "Hepatitis B vaccination",
+      "Avoid sharing personal items like razors/toothbrushes",
+      "Use sterile equipment for any medical or cosmetic procedures"
+    ],
+    "measures": [
+      "antiviral treatment if chronic",
+      "avoid alcohol",
+      "regular liver monitoring",
+      "family screening recommended"
+    ],
+    "keywords": [
+      "hep b"
+    ],
+    "vaccines": [
+      "Hepatitis B vaccine"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "CDC Hepatitis B",
+      "WHO Hepatitis Vaccine Paper"
+    ]
+  },
+  {
+    "name": "Hepatitis C",
+    "symptoms": [
+      "jaundice",
+      "fatigue",
+      "abdominal pain",
+      "nausea",
+      "loss of appetite"
+    ],
+    "description": "A viral liver infection that often becomes chronic and may lead to cirrhosis or liver cancer if untreated.",
+    "transmission": "Primarily through blood-to-blood contact (e.g., sharing needles, unsterile medical procedures).",
+    "differential_diagnosis": "Often asymptomatic in early stages; distinguished from Hep A/B by blood test (anti-HCV) and history of blood exposure.",
+    "prevention_tips": [
+      "Avoid sharing needles or syringes",
+      "Ensure use of sterile injection/medical equipment",
+      "Screening of donated blood"
+    ],
+    "measures": [
+      "get an HCV blood test",
+      "start antiviral therapy (DAA) if confirmed",
+      "avoid alcohol",
+      "regular liver monitoring"
+    ],
+    "keywords": [
+      "hep c",
+      "hepatitis c"
+    ],
+    "vaccines": [],
+    "severity": "moderate",
+    "sources": [
+      "CDC Hepatitis C Overview",
+      "WHO Hepatitis Factsheet"
+    ]
+  },
+  {
+    "name": "Hepatitis E",
+    "symptoms": [
+      "jaundice",
+      "fever",
+      "abdominal pain",
+      "nausea"
+    ],
+    "description": "A viral liver infection spread by contaminated water. Usually resolves on its own but can be severe in pregnant women.",
+    "transmission": "Fecal-oral route, primarily through contaminated drinking water.",
+    "differential_diagnosis": "High clinical suspicion in pregnant women with jaundice; outbreaks are often associated with poor water infrastructure.",
+    "prevention_tips": [
+      "Drinking safe/treated water",
+      "Proper sewage and waste disposal",
+      "Good personal hygiene"
+    ],
+    "measures": [
+      "rest and hydration",
+      "avoid alcohol",
+      "seek urgent care if pregnant",
+      "monitor for worsening jaundice"
+    ],
+    "keywords": [
+      "hep e"
+    ],
+    "vaccines": [
+      "Hepatitis E vaccine (available in some countries)"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "WHO Hepatitis E Factsheet"
+    ]
+  },
+  {
+    "name": "Measles",
+    "symptoms": [
+      "fever",
+      "rash",
+      "cough",
+      "runny nose",
+      "red eyes"
+    ],
+    "description": "A highly contagious viral infection causing fever, cough, and a characteristic rash. Can lead to pneumonia or encephalitis.",
+    "measures": [
+      "vitamin A supplementation",
+      "fever control",
+      "isolation to prevent spread",
+      "seek care for breathing difficulty"
+    ],
+    "keywords": [
+      "measles",
+      "rubeola"
+    ],
+    "vaccines": [
+      "MMR vaccine"
+    ],
+    "severity": "severe",
+    "sources": [
+      "CDC Measles",
+      "WHO Measles Factsheet"
+    ]
+  },
+  {
+    "name": "Mumps",
+    "symptoms": [
+      "jaw swelling",
+      "fever",
+      "muscle aches",
+      "fatigue"
+    ],
+    "description": "A viral infection affecting the salivary glands, causing swelling near the jaw and fever.",
+    "measures": [
+      "rest and hydration",
+      "cold packs on swollen glands",
+      "avoid sour foods",
+      "seek care if severe abdominal pain (possible pancreatitis)"
+    ],
+    "keywords": [
+      "mumps virus"
+    ],
+    "vaccines": [
+      "MMR vaccine"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "CDC Mumps",
+      "WHO Mumps Information"
+    ]
+  },
+  {
+    "name": "Rubella",
+    "symptoms": [
+      "rash",
+      "fever",
+      "swollen lymph nodes",
+      "joint pain"
+    ],
+    "description": "A viral infection causing fever and rash. Dangerous in pregnancy as it can harm the fetus.",
+    "measures": [
+      "rest",
+      "fluids",
+      "avoid contact with pregnant women",
+      "seek medical advice if pregnant"
+    ],
+    "keywords": [
+      "german measles",
+      "rubella"
+    ],
+    "vaccines": [
+      "MMR vaccine"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "CDC Rubella",
+      "WHO Rubella Factsheet"
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": [
+      "fever",
+      "cough",
+      "difficulty breathing",
+      "chest pain"
+    ],
+    "description": "An infection causing inflammation of the lungs. Can be viral, bacterial or fungal. Severity ranges from mild to life-threatening.",
+    "measures": [
+      "seek medical evaluation",
+      "antibiotics if bacterial",
+      "hydration",
+      "hospitalization if severe difficulty breathing"
+    ],
+    "keywords": [
+      "pneumonia",
+      "lung infection"
+    ],
+    "vaccines": [
+      "Pneumococcal vaccine (PCV13, PPSV23)"
+    ],
+    "severity": "severe",
+    "sources": [
+      "CDC Pneumonia",
+      "WHO Pneumococcal Factsheet"
+    ]
+  },
+  {
+    "name": "Polio",
+    "symptoms": [
+      "paralysis (in some cases)",
+      "stiffness",
+      "fever",
+      "fatigue",
+      "headache"
+    ],
+    "description": "A viral infection that can cause paralysis. Most cases are asymptomatic but severe cases can be life-threatening.",
+    "measures": [
+      "seek urgent care if weakness or paralysis occurs",
+      "supportive treatment",
+      "respiratory support if needed"
+    ],
+    "keywords": [
+      "poliomyelitis"
+    ],
+    "vaccines": [
+      "OPV (oral polio vaccine)",
+      "IPV (inactivated polio vaccine)"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO Polio Factsheet"
+    ]
+  },
+  {
+    "name": "Rabies",
+    "symptoms": [
+      "hydrophobia",
+      "tingling at bite site",
+      "agitation",
+      "confusion",
+      "fever"
+    ],
+    "description": "A viral infection that affects the nervous system. Once symptoms appear, rabies is almost always fatal.",
+    "measures": [
+      "immediate wound washing",
+      "post-exposure prophylaxis vaccination",
+      "rabies immunoglobulin if high-risk bite",
+      "seek emergency care immediately"
+    ],
+    "keywords": [
+      "rabies virus"
+    ],
+    "vaccines": [
+      "Rabies vaccine (pre- and post-exposure)"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO Rabies",
+      "CDC Rabies"
+    ]
+  },
+  {
+    "name": "Tetanus",
+    "symptoms": [
+      "muscle stiffness",
+      "jaw locking",
+      "spasms",
+      "fever"
+    ],
+    "description": "A bacterial toxin-mediated disease causing severe muscle spasms. Can be fatal without treatment.",
+    "measures": [
+      "urgent wound cleaning",
+      "tetanus antitoxin",
+      "antibiotics",
+      "vaccination booster"
+    ],
+    "keywords": [
+      "lockjaw",
+      "tetanus"
+    ],
+    "vaccines": [
+      "Tdap",
+      "DTaP",
+      "Td"
+    ],
+    "severity": "severe",
+    "sources": [
+      "CDC Tetanus",
+      "WHO Tetanus Factsheet"
+    ]
+  },
+  {
+    "name": "Diphtheria",
+    "symptoms": [
+      "fever",
+      "sore throat",
+      "thick gray membrane in throat",
+      "swollen neck"
+    ],
+    "description": "A bacterial infection affecting the throat. Can block breathing and release dangerous toxins.",
+    "measures": [
+      "urgent hospital treatment",
+      "antitoxin injection",
+      "antibiotics",
+      "isolation to prevent spread"
+    ],
+    "keywords": [
+      "diphtheria"
+    ],
+    "vaccines": [
+      "DTaP",
+      "Tdap",
+      "DT"
+    ],
+    "severity": "severe",
+    "sources": [
+      "CDC Diphtheria",
+      "WHO Diphtheria Factsheet"
+    ]
+  },
+  {
+    "name": "Leprosy",
+    "symptoms": [
+      "skin lesions",
+      "numbness",
+      "muscle weakness",
+      "nerve thickening"
+    ],
+    "description": "A chronic infectious disease caused by Mycobacterium leprae affecting skin and peripheral nerves, leading to numbness and skin lesions.",
+    "measures": [
+      "early diagnosis and multi-drug therapy (MDT)",
+      "protect affected limbs from injury",
+      "physiotherapy for nerve damage",
+      "monitoring contacts"
+    ],
+    "keywords": [
+      "hansen's disease",
+      "leprosy"
+    ],
+    "vaccines": [],
+    "severity": "moderate",
+    "sources": [
+      "WHO Leprosy fact sheet",
+      "CDC Leprosy overview"
+    ]
+  },
+  {
+    "name": "COVID-19",
+    "symptoms": [
+      "fever",
+      "cough",
+      "fatigue",
+      "loss of taste or smell",
+      "shortness of breath"
+    ],
+    "description": "An infectious respiratory disease caused by SARS-CoV-2, ranging from mild respiratory illness to severe pneumonia and systemic complications.",
+    "transmission": "Respiratory droplets/aerosols from an infected person's breath, cough, or sneeze.",
+    "differential_diagnosis": "Distinguished by loss of taste/smell (highly specific) and often more severe/prolonged respiratory symptoms than the common cold.",
+    "prevention_tips": [
+      "COVID-19 vaccination and boosters",
+      "Wear masks in crowded indoor settings",
+      "Maintain physical distance from others"
+    ],
+    "measures": [
+      "isolate if symptomatic",
+      "seek testing",
+      "supportive care at home for mild cases",
+      "seek urgent care for breathing difficulty",
+      "vaccination and boosters"
+    ],
+    "keywords": [
+      "covid",
+      "sars-cov-2"
+    ],
+    "vaccines": [
+      "mRNA vaccines (Pfizer-BioNTech, Moderna)",
+      "viral vector vaccines (AstraZeneca)"
+    ],
+    "severity": "variable",
+    "sources": [
+      "WHO COVID-19 guidance",
+      "CDC COVID-19 information"
+    ]
+  },
+  {
+    "name": "Influenza",
+    "symptoms": [
+      "fever",
+      "chills",
+      "body aches",
+      "cough",
+      "headache"
+    ],
+    "description": "Influenza (flu) is a viral respiratory infection causing fever, cough, and body aches; can be severe in high-risk groups.",
+    "measures": [
+      "rest and fluids",
+      "antiviral therapy for high-risk or early cases",
+      "paracetamol for fever",
+      "annual vaccination"
+    ],
+    "keywords": [
+      "flu",
+      "influenza"
+    ],
+    "vaccines": [
+      "seasonal influenza vaccine"
+    ],
+    "severity": "moderate",
+    "sources": [
+      "CDC Influenza",
+      "WHO Influenza overview"
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": [
+      "fever",
+      "cough",
+      "difficulty breathing",
+      "chest pain"
+    ],
+    "description": "An infection causing inflammation of the lung air sacs; can be bacterial, viral, or fungal and range from mild to life-threatening.",
+    "measures": [
+      "seek medical evaluation",
+      "antibiotics if bacterial",
+      "oxygen and supportive care for severe cases",
+      "vaccination for prevention"
+    ],
+    "keywords": [
+      "pneumonia",
+      "lung infection"
+    ],
+    "vaccines": [
+      "pneumococcal vaccines (PCV, PPSV)"
+    ],
+    "severity": "severe",
+    "sources": [
+      "WHO Pneumonia",
+      "CDC Pneumonia"
+    ]
+  },
+  {
+    "name": "Common Cold",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "sore throat",
+      "mild cough",
+      "congestion"
+    ],
+    "description": "A viral upper respiratory infection typically caused by rhinoviruses producing nasal symptoms, sore throat and cough.",
+    "measures": [
+      "rest",
+      "fluids",
+      "saline nasal irrigation",
+      "paracetamol for fever or aches"
+    ],
+    "keywords": [
+      "cold",
+      "rhinovirus"
+    ],
+    "vaccines": [],
+    "severity": "mild",
+    "sources": [
+      "CDC Common Cold",
+      "WHO Respiratory infections"
+    ]
+  },
+  {
+    "name": "Type 2 Diabetes Mellitus",
+    "symptoms": [
+      "increased thirst",
+      "frequent urination",
+      "fatigue",
+      "blurred vision",
+      "slow-healing wounds"
+    ],
+    "description": "A metabolic disorder characterized by insulin resistance and high blood glucose; long-term complications include cardiovascular disease, kidney disease, and neuropathy.",
+    "measures": [
+      "blood glucose monitoring",
+      "lifestyle changes (diet and exercise)",
+      "oral hypoglycemics or insulin as prescribed",
+      "regular screening for complications"
+    ],
+    "keywords": [
+      "diabetes",
+      "type 2 diabetes"
+    ],
+    "vaccines": [],
+    "severity": "chronic",
+    "sources": [
+      "WHO Diabetes",
+      "CDC Diabetes overview"
+    ]
+  },
+  {
+    "name": "Hypertension (High Blood Pressure)",
+    "symptoms": [
+      "often asymptomatic",
+      "headache",
+      "dizziness",
+      "nosebleeds (rare)"
+    ],
+    "description": "A chronic condition where arterial blood pressure is persistently elevated, increasing risk of heart disease and stroke.",
+    "measures": [
+      "lifestyle modification (salt reduction, exercise, weight loss)",
+      "antihypertensive medications as prescribed",
+      "regular blood pressure monitoring"
+    ],
+    "keywords": [
+      "high blood pressure",
+      "hypertension"
+    ],
+    "vaccines": [],
+    "severity": "chronic",
+    "sources": [
+      "WHO Hypertension",
+      "CDC High Blood Pressure"
+    ]
+  },
+  {
+    "name": "Heart Disease (Ischemic Heart Disease)",
+    "symptoms": [
+      "chest pain",
+      "shortness of breath",
+      "fatigue",
+      "palpitations"
+    ],
+    "description": "A group of conditions, including coronary artery disease, where reduced blood flow to the heart causes chest pain and increases risk of heart attack.",
+    "measures": [
+      "seek urgent care for chest pain",
+      "aspirin/statins/beta-blockers as prescribed",
+      "lifestyle changes",
+      "revascularization if indicated"
+    ],
+    "keywords": [
+      "coronary artery disease",
+      "ischemic heart disease"
+    ],
+    "vaccines": [],
+    "severity": "severe",
+    "sources": [
+      "WHO Cardiovascular Diseases",
+      "CDC Heart Disease"
+    ]
+  },
+  {
+    "name": "Stroke (Cerebrovascular Accident)",
+    "symptoms": [
+      "sudden weakness on one side",
+      "slurred speech",
+      "face droop",
+      "sudden severe headache"
+    ],
+    "description": "An acute neurological event due to interrupted blood flow to the brain (ischemic or hemorrhagic), requiring immediate emergency care.",
+    "measures": [
+      "call emergency services immediately (time-sensitive treatment)",
+      "thrombolysis or thrombectomy if ischemic and within window",
+      "supportive care and rehabilitation"
+    ],
+    "keywords": [
+      "cva",
+      "stroke"
+    ],
+    "vaccines": [],
+    "severity": "severe",
+    "sources": [
+      "WHO Stroke",
+      "CDC Stroke"
+    ]
+  },
+  {
+    "name": "Breast Cancer",
+    "symptoms": [
+      "breast lump",
+      "change in breast shape",
+      "nipple discharge",
+      "skin changes over breast"
+    ],
+    "description": "A malignant tumor of breast tissue that may present as a lump or skin/nipple changes; early detection improves outcomes.",
+    "measures": [
+      "seek diagnostic evaluation (imaging/biopsy)",
+      "surgical and oncologic treatment as advised",
+      "regular screening (mammography) per guidelines"
+    ],
+    "keywords": [
+      "breast cancer",
+      "malignancy"
+    ],
+    "vaccines": [],
+    "severity": "severe",
+    "sources": [
+      "WHO Cancer Factsheet",
+      "CDC Breast Cancer"
+    ]
+  },
+  {
+    "name": "Appendicitis",
+    "symptoms": [
+      "Abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Fever"
+    ],
+    "description": "Inflammation of the appendix causing severe abdominal pain, often requiring surgical removal (appendicectomy).",
+    "measures": [
+      "Surgery",
+      "Hospitalization",
+      "Pain management"
+    ],
+    "keywords": [
+      "appendix inflammation",
+      "appendix pain"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Gallstones",
+    "symptoms": [
+      "Jaundice",
+      "Abdominal pain",
+      "Nausea",
+      "Vomiting"
+    ],
+    "description": "Solid particles (stones) that form in the gallbladder; may be asymptomatic or cause biliary colic and require cholecystectomy.",
+    "measures": [
+      "Surgery if needed",
+      "Diet modification",
+      "Hydration"
+    ],
+    "keywords": [
+      "cholelithiasis",
+      "biliary colic"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Hepatitis D",
+    "symptoms": [
+      "Jaundice",
+      "Fatigue",
+      "Abdominal pain",
+      "Nausea"
+    ],
+    "description": "A liver infection (HDV) that only occurs with hepatitis B virus; causes more severe disease and faster progression to cirrhosis.",
+    "measures": [
+      "Supportive care",
+      "Avoid alcohol",
+      "Vaccination for Hepatitis B"
+    ],
+    "keywords": [
+      "HDV",
+      "delta hepatitis"
+    ],
+    "vaccines": [
+      "Hepatitis B vaccine (prevents Hepatitis D by preventing HBV infection)"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "Hepatitis G",
+    "symptoms": [
+      "Fatigue",
+      "Mild jaundice",
+      "Loss of appetite"
+    ],
+    "description": "Also known as GBV-C; a virus detected in humans but not clearly linked to liver disease; clinical significance is limited.",
+    "measures": [
+      "Supportive care",
+      "Monitor liver function"
+    ],
+    "keywords": [
+      "GBV-C",
+      "HGV"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Yellow Fever",
+    "symptoms": [
+      "Jaundice",
+      "Fever",
+      "Headache",
+      "Muscle pain",
+      "Vomiting"
+    ],
+    "description": "A mosquito-borne viral infection that can cause fever, jaundice and severe hemorrhagic illness; preventable with a highly effective vaccine.",
+    "measures": [
+      "Vaccination",
+      "Hydration",
+      "Supportive care"
+    ],
+    "keywords": [
+      "YF",
+      "yellow fever virus"
+    ],
+    "vaccines": [
+      "Yellow fever vaccine (single dose confers long-lasting protection)"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "Plague",
+    "symptoms": [
+      "Fever",
+      "Chills",
+      "Swollen lymph nodes",
+      "Weakness"
+    ],
+    "description": "A bacterial infection (Yersinia pestis) transmitted by fleas or droplets; can present as bubonic, septicemic or pneumonic plague and can be life-threatening.",
+    "measures": [
+      "Antibiotics",
+      "Isolation",
+      "Supportive care"
+    ],
+    "keywords": [
+      "Yersinia pestis",
+      "bubonic plague",
+      "pneumonic plague"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Smallpox",
+    "symptoms": [
+      "Fever",
+      "Rash",
+      "Blisters",
+      "Fatigue"
+    ],
+    "description": "A historically devastating viral disease caused by variola virus; declared eradicated in 1980; vaccines exist but routine vaccination stopped.",
+    "measures": [
+      "Vaccination",
+      "Supportive care",
+      "Isolation"
+    ],
+    "keywords": [
+      "variola",
+      "small pox"
+    ],
+    "vaccines": [
+      "Smallpox vaccine (used historically; stockpiles maintained for emergency use)"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "Anthrax",
+    "symptoms": [
+      "Fever",
+      "Skin ulcers",
+      "Respiratory distress"
+    ],
+    "description": "Infection caused by Bacillus anthracis; can present as cutaneous, inhalational or gastrointestinal anthrax; serious but preventable in at-risk groups with vaccine.",
+    "measures": [
+      "Antibiotics",
+      "Isolation",
+      "Hospitalization"
+    ],
+    "keywords": [
+      "Bacillus anthracis",
+      "cutaneous anthrax",
+      "inhalational anthrax"
+    ],
+    "vaccines": [
+      "Anthrax vaccine (recommended for certain high-risk occupational groups)"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "Leishmaniasis",
+    "symptoms": [
+      "Fever",
+      "Weight loss",
+      "Skin ulcers",
+      "Anemia"
+    ],
+    "description": "Parasitic disease transmitted by sandflies causing cutaneous, mucocutaneous or visceral forms; treatment and vector control are mainstays; no widely used human vaccine yet.",
+    "measures": [
+      "Antiparasitic medications",
+      "Supportive care"
+    ],
+    "keywords": [
+      "Leishmania",
+      "sandfly fever"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Filariasis",
+    "symptoms": [
+      "Swelling in limbs",
+      "Fever",
+      "Pain"
+    ],
+    "description": "Parasitic infection (e.g., Wuchereria bancrofti) causing lymphatic damage, lymphedema and elephantiasis; prevented by mass drug administration rather than a vaccine.",
+    "measures": [
+      "Medications",
+      "Prevent mosquito bites",
+      "Hygiene practices"
+    ],
+    "keywords": [
+      "lymphatic filariasis",
+      "elephantiasis"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Japanese B Encephalitis",
+    "symptoms": [
+      "Seizures",
+      "Confusion",
+      "Fever",
+      "Headache"
+    ],
+    "description": "A mosquito-borne viral encephalitis caused by Japanese encephalitis virus (JEV); can cause severe neurologic disease; effective vaccines are available.",
+    "measures": [
+      "Vaccination",
+      "Supportive care",
+      "Hospitalization"
+    ],
+    "keywords": [
+      "Japanese encephalitis",
+      "JEV"
+    ],
+    "vaccines": [
+      "Japanese encephalitis vaccine (e.g., IXIARO)"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "Rabies (Animal Bite)",
+    "symptoms": [
+      "Fever",
+      "Confusion",
+      "Fear of water",
+      "Salivation"
+    ],
+    "description": "A viral infection transmitted by animal bites that is almost always fatal once symptoms appear; preventable with prompt post-exposure prophylaxis (vaccine + immunoglobulin).",
+    "measures": [
+      "Immediate vaccination",
+      "Hospital care",
+      "Wound cleaning"
+    ],
+    "keywords": [
+      "rabies virus",
+      "hydrophobia"
+    ],
+    "vaccines": [
+      "Rabies vaccine (pre-exposure and post-exposure prophylaxis)"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "Scabies",
+    "symptoms": [
+      "Itching",
+      "Rash",
+      "Red bumps"
+    ],
+    "description": "Skin infestation by the Sarcoptes scabiei mite causing intense itching and a rash; treated with topical scabicides or oral medication.",
+    "measures": [
+      "Topical creams",
+      "Hygiene",
+      "Treat close contacts"
+    ],
+    "keywords": [
+      "scabies mite",
+      "sarcoptes scabiei"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Tinea (Fungal Infections)",
+    "symptoms": [
+      "Itching",
+      "Red patches",
+      "Scaling"
+    ],
+    "description": "Superficial fungal infections of skin, hair or nails (tinea) such as ringworm; treated with topical or oral antifungals.",
+    "measures": [
+      "Antifungal creams",
+      "Keep area dry",
+      "Hygiene"
+    ],
+    "keywords": [
+      "ringworm",
+      "dermatophytosis"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Psoriasis",
+    "symptoms": [
+      "Red scaly patches",
+      "Itching",
+      "Joint pain"
+    ],
+    "description": "A chronic immune-mediated skin condition causing red, scaly plaques; treatments control symptoms but there is no cure.",
+    "measures": [
+      "Topical treatments",
+      "Phototherapy",
+      "Medications"
+    ],
+    "keywords": [
+      "psoriatic plaques",
+      "autoimmune skin disease"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Vitiligo",
+    "symptoms": [
+      "White patches on skin",
+      "Depigmentation"
+    ],
+    "description": "A condition where patches of skin lose pigment (depigmentation) due to melanocyte loss; not contagious and treatment focuses on cosmetic management or repigmentation.",
+    "measures": [
+      "Topical creams",
+      "Sun protection",
+      "Cosmetic treatments"
+    ],
+    "keywords": [
+      "depigmentation",
+      "leukoderma"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Eczema",
+    "symptoms": [
+      "Itching",
+      "Redness",
+      "Dry skin"
+    ],
+    "description": "Also called atopic dermatitis; a chronic itchy inflammatory skin condition often starting in childhood and managed with emollients and topical steroids.",
+    "measures": [
+      "Moisturizers",
+      "Avoid triggers",
+      "Medications"
+    ],
+    "keywords": [
+      "atopic dermatitis",
+      "atopic eczema"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Obstructive Sleep Apnea",
+    "symptoms": [
+      "Loud snoring",
+      "Daytime sleepiness",
+      "Fatigue"
+    ],
+    "description": "A sleep disorder where airway collapse causes repeated pauses in breathing during sleep; treated with lifestyle measures, CPAP, devices or surgery.",
+    "measures": [
+      "Lifestyle changes",
+      "CPAP",
+      "Surgery if severe"
+    ],
+    "keywords": [
+      "OSA",
+      "sleep apnoea",
+      "sleep apnea"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "GERD (Acid Reflux)",
+    "symptoms": [
+      "Heartburn",
+      "Regurgitation",
+      "Chest discomfort"
+    ],
+    "description": "Gastroesophageal reflux disease (GERD) causes recurrent heartburn due to stomach acid flowing back into the oesophagus; managed with lifestyle changes and acid suppression.",
+    "measures": [
+      "Antacids",
+      "Dietary modifications",
+      "Avoid triggers"
+    ],
+    "keywords": [
+      "acid reflux",
+      "heartburn"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Cystic Fibrosis",
+    "symptoms": [
+      "Chronic cough",
+      "Frequent lung infections",
+      "Digestive problems"
+    ],
+    "description": "An inherited genetic disorder (CFTR gene) causing thick mucus in lungs and digestive issues; chronic condition managed with physiotherapy, antibiotics and CFTR modulators.",
+    "measures": [
+      "Physiotherapy",
+      "Medications",
+      "Nutritional support"
+    ],
+    "keywords": [
+      "CFTR",
+      "cystic fibrosis transmembrane conductance regulator"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Asthma",
+    "symptoms": [
+      "Shortness of breath",
+      "Wheezing",
+      "Coughing",
+      "Chest tightness"
+    ],
+    "description": "A chronic inflammatory airway condition that causes recurrent episodes of wheezing, coughing and breathing difficulty.",
+    "measures": [
+      "Inhalers",
+      "Avoid triggers",
+      "Medication",
+      "Breathing exercises"
+    ],
+    "keywords": [
+      "asthma attack",
+      "bronchospasm",
+      "allergic asthma"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Bronchitis",
+    "symptoms": [
+      "Cough",
+      "Mucus production",
+      "Fatigue",
+      "Chest discomfort"
+    ],
+    "description": "Inflammation of the bronchial tubes often causing persistent cough and mucus production.",
+    "measures": [
+      "Rest",
+      "Hydration",
+      "Medications as prescribed",
+      "Avoid smoke"
+    ],
+    "keywords": [
+      "acute bronchitis",
+      "chronic bronchitis"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Obesity",
+    "symptoms": [
+      "Weight gain",
+      "Fatigue",
+      "Shortness of breath"
+    ],
+    "description": "A chronic health condition involving excessive body fat that increases risk of metabolic and cardiovascular diseases.",
+    "measures": [
+      "Healthy diet",
+      "Regular exercise",
+      "Lifestyle modification",
+      "Medical supervision"
+    ],
+    "keywords": [
+      "overweight",
+      "BMI high",
+      "metabolic imbalance"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "HIV/AIDS",
+    "symptoms": [
+      "Fever",
+      "Fatigue",
+      "Weight loss",
+      "Recurrent infections"
+    ],
+    "description": "A viral infection that weakens the immune system, increasing susceptibility to opportunistic infections.",
+    "measures": [
+      "Antiretroviral therapy",
+      "Supportive care",
+      "Regular monitoring"
+    ],
+    "keywords": [
+      "HIV",
+      "AIDS",
+      "immune deficiency"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Ebola",
+    "symptoms": [
+      "Bleeding",
+      "Fever",
+      "Vomiting",
+      "Diarrhea",
+      "Weakness"
+    ],
+    "description": "A severe viral hemorrhagic fever transmitted through body fluids, often life-threatening.",
+    "measures": [
+      "Isolation",
+      "Supportive care",
+      "Hospitalization",
+      "Experimental therapies if available"
+    ],
+    "keywords": [
+      "ebolavirus",
+      "hemorrhagic fever"
+    ],
+    "vaccines": [
+      "rVSV-ZEBOV vaccine"
+    ],
+    "severity": "severe"
+  },
+  {
+    "name": "SARS",
+    "symptoms": [
+      "Fever",
+      "Cough",
+      "Shortness of breath",
+      "Fatigue"
+    ],
+    "description": "A viral respiratory illness caused by SARS-CoV leading to pneumonia-like symptoms.",
+    "measures": [
+      "Isolation",
+      "Supportive care",
+      "Hospital care if severe"
+    ],
+    "keywords": [
+      "SARS virus",
+      "severe acute respiratory syndrome"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Zika",
+    "symptoms": [
+      "Conjunctivitis",
+      "Rash",
+      "Joint pain",
+      "Fever"
+    ],
+    "description": "A mosquito-borne viral infection that can cause fever and rash; can lead to birth defects if contracted during pregnancy.",
+    "measures": [
+      "Rest",
+      "Hydration",
+      "Pain relief",
+      "Avoid mosquito bites"
+    ],
+    "keywords": [
+      "zika virus",
+      "arbovirus"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Migraine",
+    "symptoms": [
+      "Headache",
+      "Sensitivity to light/sound",
+      "Nausea",
+      "Vomiting"
+    ],
+    "description": "A neurological condition causing intense headaches often accompanied by nausea and sensitivity to light and sound.",
+    "measures": [
+      "Rest in dark room",
+      "Hydration",
+      "Pain relief",
+      "Avoid triggers"
+    ],
+    "keywords": [
+      "migraine attack",
+      "aura",
+      "vascular headache"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Parkinson's",
+    "symptoms": [
+      "Tremor",
+      "Stiffness",
+      "Slowness of movement",
+      "Balance problems"
+    ],
+    "description": "A progressive neurological disorder affecting movement due to dopamine loss in the brain.",
+    "measures": [
+      "Medication",
+      "Physiotherapy",
+      "Lifestyle modifications"
+    ],
+    "keywords": [
+      "parkinsonism",
+      "dopamine disorder"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Alzheimer's",
+    "symptoms": [
+      "Memory loss",
+      "Confusion",
+      "Difficulty in daily activities"
+    ],
+    "description": "A degenerative brain disease leading to progressive memory loss and cognitive decline.",
+    "measures": [
+      "Cognitive therapy",
+      "Medication",
+      "Supportive care",
+      "Regular monitoring"
+    ],
+    "keywords": [
+      "dementia",
+      "cognitive decline"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Epilepsy",
+    "symptoms": [
+      "Seizures",
+      "Loss of consciousness",
+      "Confusion"
+    ],
+    "description": "A neurological condition characterized by recurrent seizures caused by abnormal electrical activity in the brain.",
+    "measures": [
+      "Medication",
+      "Avoid triggers",
+      "Regular monitoring",
+      "Safety precautions"
+    ],
+    "keywords": [
+      "seizure disorder",
+      "convulsions"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Chronic Kidney Disease",
+    "symptoms": [
+      "Swelling",
+      "Fatigue",
+      "Nausea",
+      "Reduced urine output"
+    ],
+    "description": "A long-term condition where kidneys gradually lose function, leading to fluid imbalance and toxin buildup.",
+    "measures": [
+      "Medication",
+      "Dialysis if needed",
+      "Healthy diet",
+      "Monitor kidney function"
+    ],
+    "keywords": [
+      "CKD",
+      "renal disease"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Acute Kidney Injury",
+    "symptoms": [
+      "Decreased urine output",
+      "Fatigue",
+      "Confusion"
+    ],
+    "description": "A sudden decline in kidney function caused by illness, dehydration or injury.",
+    "measures": [
+      "Hospitalization",
+      "Hydration",
+      "Treat underlying cause"
+    ],
+    "keywords": [
+      "AKI",
+      "acute renal failure"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Urinary Tract Infection",
+    "symptoms": [
+      "Painful urination",
+      "Burning during urination",
+      "Frequent urination",
+      "Cloudy urine"
+    ],
+    "description": "A bacterial infection affecting the urinary tract, most commonly the bladder.",
+    "measures": [
+      "Antibiotics",
+      "Hydration",
+      "Avoid irritants"
+    ],
+    "keywords": [
+      "UTI",
+      "bladder infection"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Gastroenteritis",
+    "symptoms": [
+      "Diarrhea",
+      "Vomiting",
+      "Abdominal cramps",
+      "Fever"
+    ],
+    "description": "Inflammation of the stomach and intestines often caused by viral or bacterial infection.",
+    "measures": [
+      "Hydration",
+      "Rest",
+      "Electrolyte replacement"
+    ],
+    "keywords": [
+      "stomach flu",
+      "viral gastroenteritis"
+    ],
+    "vaccines": [
+      "Rotavirus vaccine (for children)"
+    ],
+    "severity": "moderate"
+  },
+  {
+    "name": "Peptic Ulcer",
+    "symptoms": [
+      "Abdominal pain",
+      "Heartburn",
+      "Nausea",
+      "Vomiting"
+    ],
+    "description": "Sores that develop in the lining of the stomach or duodenum often due to H. pylori infection or NSAID use.",
+    "measures": [
+      "Antacids",
+      "Proton pump inhibitors",
+      "Avoid spicy foods"
+    ],
+    "keywords": [
+      "gastric ulcer",
+      "duodenal ulcer"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Irritable Bowel Syndrome",
+    "symptoms": [
+      "Abdominal pain",
+      "Bloating",
+      "Diarrhea",
+      "Constipation"
+    ],
+    "description": "A functional bowel disorder causing abdominal discomfort and changes in bowel habits.",
+    "measures": [
+      "Dietary management",
+      "Hydration",
+      "Stress reduction"
+    ],
+    "keywords": [
+      "IBS",
+      "irritable colon"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Arthritis",
+    "symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling",
+      "reduced range of motion",
+      "warmth in joints"
+    ],
+    "description": "Inflammation of one or more joints causing pain and stiffness that typically worsens with age.",
+    "measures": [
+      "Pain relievers (paracetamol, NSAIDs)",
+      "Physical therapy",
+      "Hot/cold therapy",
+      "Maintain healthy weight",
+      "Regular gentle exercise"
+    ],
+    "keywords": [
+      "arthritis",
+      "joint inflammation",
+      "osteoarthritis",
+      "rheumatoid arthritis"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Asthma",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "difficulty breathing",
+      "chest tightness",
+      "coughing"
+    ],
+    "description": "A chronic respiratory condition causing inflammation and narrowing of airways, leading to breathing difficulties.",
+    "measures": [
+      "Use prescribed inhaler",
+      "Avoid triggers (smoke, allergens)",
+      "Keep rescue inhaler handy",
+      "Seek emergency care for severe attacks"
+    ],
+    "keywords": [
+      "asthma",
+      "bronchial asthma"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "blurred vision",
+      "chest pain",
+      "shortness of breath"
+    ],
+    "description": "High blood pressure that can lead to serious health problems like heart disease and stroke if left untreated.",
+    "measures": [
+      "Regular blood pressure monitoring",
+      "Low-salt diet",
+      "Regular exercise",
+      "Stress management",
+      "Take prescribed medications"
+    ],
+    "keywords": [
+      "high blood pressure",
+      "hypertension"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Migraine",
+    "symptoms": [
+      "severe headache",
+      "nausea",
+      "sensitivity to light",
+      "sensitivity to sound",
+      "visual disturbances"
+    ],
+    "description": "A neurological condition causing intense, debilitating headaches often accompanied by nausea and sensitivity to light.",
+    "measures": [
+      "Rest in dark, quiet room",
+      "Pain relievers",
+      "Avoid triggers",
+      "Stay hydrated",
+      "Prescription medications if severe"
+    ],
+    "keywords": [
+      "migraine",
+      "severe headache"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Jaundice",
+    "symptoms": [
+      "yellowing of skin",
+      "yellowing of eyes",
+      "dark urine",
+      "pale stools",
+      "fatigue"
+    ],
+    "description": "Yellowing of skin and eyes due to high bilirubin, often from liver problems.",
+    "measures": [
+      "Seek medical evaluation",
+      "Blood tests",
+      "Rest",
+      "Avoid alcohol"
+    ],
+    "keywords": [
+      "jaundice",
+      "yellow skin"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Heat Stroke",
+    "symptoms": [
+      "high body temperature",
+      "confusion",
+      "rapid heartbeat",
+      "nausea"
+    ],
+    "description": "Serious heat illness common in hot summers.",
+    "measures": [
+      "Move to cool place",
+      "Cool body",
+      "Seek emergency care"
+    ],
+    "keywords": [
+      "heat stroke",
+      "sun stroke"
+    ],
+    "vaccines": [],
+    "severity": "severe"
+  },
+  {
+    "name": "Dehydration",
+    "symptoms": [
+      "excessive thirst",
+      "dry mouth",
+      "decreased urination",
+      "dizziness"
+    ],
+    "description": "Loss of body fluids, common in hot weather.",
+    "measures": [
+      "Drink ORS",
+      "Increase fluids",
+      "Rest in cool place"
+    ],
+    "keywords": [
+      "dehydration"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Food Poisoning",
+    "symptoms": [
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal cramps"
+    ],
+    "description": "Illness from contaminated food.",
+    "measures": [
+      "Stay hydrated with ORS",
+      "Rest",
+      "Seek care if severe"
+    ],
+    "keywords": [
+      "food poisoning"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Fungal Skin Infection",
+    "symptoms": [
+      "itchy skin",
+      "red patches",
+      "scaling",
+      "ring-shaped rash"
+    ],
+    "description": "Fungal infections common in humid conditions.",
+    "measures": [
+      "Keep area dry",
+      "Apply antifungal cream",
+      "Wear cotton clothing"
+    ],
+    "keywords": [
+      "fungal infection",
+      "ringworm"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Conjunctivitis",
+    "symptoms": [
+      "red eyes",
+      "itching",
+      "discharge from eyes",
+      "watery eyes"
+    ],
+    "description": "Eye inflammation, very contagious.",
+    "measures": [
+      "Use eye drops",
+      "Avoid touching eyes",
+      "Wash hands"
+    ],
+    "keywords": [
+      "conjunctivitis",
+      "pink eye"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Asthma",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "difficulty breathing",
+      "chest tightness",
+      "coughing"
+    ],
+    "description": "A chronic respiratory condition causing inflammation and narrowing of airways, leading to breathing difficulty and wheezing.",
+    "measures": [
+      "use prescribed inhaler (bronchodilator)",
+      "avoid triggers (smoke, dust, allergens)",
+      "take controller medications daily if prescribed",
+      "keep rescue inhaler handy",
+      "seek emergency care for severe attacks"
+    ],
+    "keywords": [
+      "asthma",
+      "bronchial asthma",
+      "wheezing"
+    ],
+    "vaccines": [],
+    "severity": "chronic"
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "blurred vision",
+      "chest pain",
+      "shortness of breath"
+    ],
+    "description": "High blood pressure that can lead to heart disease, stroke, and kidney problems if left untreated.",
+    "measures": [
+      "reduce salt intake",
+      "regular exercise (30 min daily)",
+      "maintain healthy weight",
+      "take prescribed blood pressure medications",
+      "limit alcohol and quit smoking",
+      "monitor blood pressure regularly"
+    ],
+    "keywords": [
+      "high blood pressure",
+      "hypertension",
+      "BP"
+    ],
+    "vaccines": [],
+    "severity": "chronic"
+  },
+  {
+    "name": "Migraine",
+    "symptoms": [
+      "severe headache",
+      "nausea",
+      "vomiting",
+      "sensitivity to light",
+      "sensitivity to sound"
+    ],
+    "description": "A neurological condition causing intense, throbbing headaches often on one side of the head, lasting hours to days.",
+    "measures": [
+      "rest in dark, quiet room",
+      "take prescribed migraine medication early",
+      "apply cold compress to head",
+      "stay hydrated",
+      "identify and avoid triggers (stress, certain foods)",
+      "maintain regular sleep schedule"
+    ],
+    "keywords": [
+      "migraine",
+      "severe headache",
+      "headache"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "itchy eyes",
+      "nasal congestion",
+      "watery eyes"
+    ],
+    "description": "An allergic reaction causing inflammation of the nasal passages due to allergens like pollen, dust, or pet dander.",
+    "measures": [
+      "avoid known allergens",
+      "use antihistamines",
+      "nasal corticosteroid sprays",
+      "keep windows closed during high pollen days",
+      "use air purifiers",
+      "wash bedding regularly in hot water"
+    ],
+    "keywords": [
+      "hay fever",
+      "allergies",
+      "allergic rhinitis"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "GERD (Acid Reflux)",
+    "symptoms": [
+      "heartburn",
+      "chest pain",
+      "difficulty swallowing",
+      "regurgitation",
+      "sour taste in mouth"
+    ],
+    "description": "Gastroesophageal reflux disease where stomach acid flows back into the esophagus, causing irritation and discomfort.",
+    "measures": [
+      "avoid trigger foods (spicy, fatty, acidic)",
+      "eat smaller meals",
+      "don't lie down immediately after eating",
+      "elevate head of bed",
+      "take antacids or prescribed medications",
+      "maintain healthy weight",
+      "avoid eating 2-3 hours before bedtime"
+    ],
+    "keywords": [
+      "acid reflux",
+      "GERD",
+      "heartburn"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Anxiety Disorder",
+    "symptoms": [
+      "excessive worry",
+      "restlessness",
+      "rapid heartbeat",
+      "sweating",
+      "difficulty concentrating"
+    ],
+    "description": "A mental health condition characterized by persistent, excessive worry and fear that interferes with daily activities.",
+    "measures": [
+      "practice deep breathing exercises",
+      "regular physical exercise",
+      "cognitive behavioral therapy (CBT)",
+      "meditation and mindfulness",
+      "prescribed anti-anxiety medication if needed",
+      "maintain regular sleep schedule",
+      "limit caffeine and alcohol"
+    ],
+    "keywords": [
+      "anxiety",
+      "panic",
+      "worry"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Insomnia",
+    "symptoms": [
+      "difficulty falling asleep",
+      "waking up frequently",
+      "waking up too early",
+      "daytime fatigue",
+      "irritability"
+    ],
+    "description": "A sleep disorder characterized by difficulty falling asleep or staying asleep, leading to poor quality sleep.",
+    "measures": [
+      "maintain consistent sleep schedule",
+      "create relaxing bedtime routine",
+      "avoid screens 1 hour before bed",
+      "limit caffeine after 2 PM",
+      "exercise regularly but not before bed",
+      "keep bedroom cool, dark, and quiet",
+      "avoid large meals before bedtime"
+    ],
+    "keywords": [
+      "insomnia",
+      "sleep disorder",
+      "can't sleep"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "symptoms": [
+      "Burning during urination",
+      "Painful urination",
+      "Frequent urination",
+      "urgent need to urinate",
+      "cloudy urine"
+    ],
+    "description": "A bacterial infection affecting any part of the urinary system, most commonly the bladder and urethra.",
+    "measures": [
+      "drink plenty of water",
+      "take prescribed antibiotics fully",
+      "urinate frequently, don't hold it",
+      "wipe front to back (for women)",
+      "avoid irritating feminine products",
+      "cranberry juice may help prevent recurrence",
+      "seek care if fever or back pain develops"
+    ],
+    "keywords": [
+      "UTI",
+      "urinary infection",
+      "bladder infection"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Iron Deficiency Anemia",
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "pale skin",
+      "shortness of breath",
+      "dizziness"
+    ],
+    "description": "A condition where blood lacks adequate healthy red blood cells due to insufficient iron, leading to reduced oxygen delivery to tissues.",
+    "measures": [
+      "take iron supplements as prescribed",
+      "eat iron-rich foods (spinach, red meat, beans)",
+      "consume vitamin C to enhance iron absorption",
+      "avoid tea/coffee with meals",
+      "get blood tests to monitor levels",
+      "treat underlying causes (heavy periods, bleeding)"
+    ],
+    "keywords": [
+      "anemia",
+      "iron deficiency",
+      "low hemoglobin"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Osteoarthritis",
+    "symptoms": [
+      "joint pain",
+      "stiffness",
+      "swelling",
+      "reduced flexibility",
+      "grating sensation in joints"
+    ],
+    "description": "A degenerative joint disease where cartilage breaks down, causing pain and stiffness, commonly affecting knees, hips, and hands.",
+    "measures": [
+      "maintain healthy weight",
+      "regular low-impact exercise (swimming, walking)",
+      "physical therapy",
+      "pain relievers (paracetamol, NSAIDs)",
+      "hot/cold therapy",
+      "use assistive devices if needed",
+      "consider joint injections for severe cases"
+    ],
+    "keywords": [
+      "arthritis",
+      "osteoarthritis",
+      "joint pain"
+    ],
+    "vaccines": [],
+    "severity": "chronic"
+  },
+  {
+    "name": "Eczema (Atopic Dermatitis)",
+    "symptoms": [
+      "itchy skin",
+      "red patches",
+      "dry skin",
+      "cracked skin",
+      "rash"
+    ],
+    "description": "A chronic skin condition causing inflammation, itching, and red, dry patches, often triggered by allergens or irritants.",
+    "measures": [
+      "moisturize skin regularly",
+      "use gentle, fragrance-free soaps",
+      "avoid known triggers",
+      "apply prescribed steroid creams",
+      "take short, lukewarm baths",
+      "wear soft, breathable fabrics",
+      "keep nails short to prevent scratching damage"
+    ],
+    "keywords": [
+      "eczema",
+      "atopic dermatitis",
+      "skin rash"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Constipation",
+    "symptoms": [
+      "infrequent bowel movements",
+      "hard stools",
+      "straining",
+      "abdominal pain",
+      "bloating"
+    ],
+    "description": "A digestive condition characterized by difficulty passing stools or infrequent bowel movements.",
+    "measures": [
+      "increase fiber intake (fruits, vegetables, whole grains)",
+      "drink plenty of water (8+ glasses daily)",
+      "regular exercise",
+      "establish regular bathroom routine",
+      "don't ignore urge to go",
+      "use stool softeners if needed",
+      "avoid excessive dairy products"
+    ],
+    "keywords": [
+      "constipation",
+      "hard stools",
+      "irregular bowel"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Sinusitis",
+    "symptoms": [
+      "facial pain",
+      "nasal congestion",
+      "thick nasal discharge",
+      "headache",
+      "reduced sense of smell"
+    ],
+    "description": "Inflammation of the sinuses causing congestion, facial pressure, and thick nasal discharge, often following a cold.",
+    "measures": [
+      "use saline nasal irrigation",
+      "apply warm compress to face",
+      "stay hydrated",
+      "use decongestants",
+      "take pain relievers",
+      "use humidifier",
+      "antibiotics if bacterial (prescribed by doctor)"
+    ],
+    "keywords": [
+      "sinus infection",
+      "sinusitis",
+      "sinus pressure"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  },
+  {
+    "name": "Acne",
+    "symptoms": [
+      "pimples",
+      "blackheads",
+      "whiteheads",
+      "oily skin",
+      "red bumps"
+    ],
+    "description": "A skin condition occurring when hair follicles become clogged with oil and dead skin cells, causing pimples and blemishes.",
+    "measures": [
+      "wash face twice daily with gentle cleanser",
+      "use non-comedogenic products",
+      "avoid touching face",
+      "don't squeeze pimples",
+      "use benzoyl peroxide or salicylic acid products",
+      "prescribed topical retinoids if severe",
+      "maintain healthy diet, limit dairy and sugar"
+    ],
+    "keywords": [
+      "acne",
+      "pimples",
+      "breakouts"
+    ],
+    "vaccines": [],
+    "severity": "mild"
+  },
+  {
+    "name": "Vitamin D Deficiency",
+    "symptoms": [
+      "bone pain",
+      "muscle weakness",
+      "fatigue",
+      "mood changes",
+      "frequent infections"
+    ],
+    "description": "Insufficient vitamin D levels leading to weakened bones, fatigue, and increased infection risk.",
+    "measures": [
+      "get 15-20 minutes of sunlight daily",
+      "take vitamin D supplements (as prescribed)",
+      "eat vitamin D-rich foods (fatty fish, egg yolks, fortified milk)",
+      "get blood levels checked",
+      "maintain healthy weight",
+      "regular exercise"
+    ],
+    "keywords": [
+      "vitamin D deficiency",
+      "low vitamin D"
+    ],
+    "vaccines": [],
+    "severity": "moderate"
+  }
+]
